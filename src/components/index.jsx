@@ -1,0 +1,7 @@
+export {default as Navbar} from "../components/navbar/Navbar"
+export {default as Main} from "../components/main/Main"
+export {default as Channel} from "../components/channel/Channel"
+export {default as VideoDetail} from "../components/video-detail/Video-Detail"
+export {default as Search} from "../components/search/Search"
+export {default as Searchbar} from "../components/search-bar/Searchbar"
+export {default as Category} from "../components/category/Category"
